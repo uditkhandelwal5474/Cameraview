@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">CameraView</string>
+    <string name="facebook_app_id">254374364940838</string>
+    <string name="facebook_client_token">b76621c72489a6fefb96dda02f449b25</string>
+    <string name="all_permission_required">All permissions should be acquired</string>
+    <string name="client_disconnected">Client Disconnected</string>
+    <string name="s_health_not_available">Connection with Samsung Health is not available</string>
+    <string name="please_install_s_health">Please install Samsung Health</string>
+    <string name="please_upgrade_s_health">Please upgrade Samsung Health</string>
+    <string name="please_enable_s_health">Please enable Samsung Health</string>
+    <string name="please_agree_s_health">Please agree with Samsung Health policy</string>
+    <string name="please_make_s_health">Please make Samsung Health available</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="s_health_data_permission_acquired">Samsung health data permissions should be acquired</string>
+    <string name="camera_text">Hold for video, tap for photo</string>
+
 </resources>
