@@ -1,3 +1,20 @@
+## Installation
+
+Add this in project level build.gradle then sync
+
+```bash
+  repositories {
+            mavenCentral()
+            maven { url 'https://jitpack.io' }
+  }
+```
+
+Add this dependency in app level build.gradle then sync
+
+```bash
+  implementation 'com.github.uditkhandelwal5474:Cameraview:1.0'
+```
+    
 <h1 align="center">Hi 👋, I'm Udit</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
